@@ -100,4 +100,4 @@ Si deseas colaborar en un proyecto o simplemente intercambiar conocimientos, pue
 
 <p align="center">
   <img src="https://github.com/Albert02024/Albert02024/blob/fcdad89edebf1fb21446fc90c2b177fd3e425962/Pie.png" />
-</p>
+width="25%"</p>
