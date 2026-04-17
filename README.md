@@ -93,8 +93,8 @@ Mi objetivo a corto y mediano plazo es consolidarme como un **Desarrollador Full
 
 Si deseas colaborar en un proyecto o simplemente intercambiar conocimientos, puedes contactarme a través de:
 
-* **Correo Electrónico:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
-* **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+* **Correo Electrónico:** [cruzcruzalisalberto@gmail.com]
+
 
 ---
 
